@@ -10,8 +10,4 @@ Step 5 ) Open apiServices.js and replace "https://book-store-backend-whzn.onrend
 
 In case There is some error regarding Mongo DB Atlas IP adress please login with my account and set the current IP address
 
-Mongo DB login credentials 
-Email : ashishsrivastava7007@gmail.com
-Password : ash@Valuefy11
-
 Note : I have implemented sent email functionality , email will only be sent to Google accounts.
